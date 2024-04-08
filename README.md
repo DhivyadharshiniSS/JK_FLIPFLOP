@@ -51,7 +51,7 @@ end
 endmodule
 ```
 # Output
-![image](https://github.com/trishasailendran/JK_FLIPFLOP/assets/87655678/0e48cc9b-a217-4675-a7c0-b2a7c92885d6)
+![image](https://github.com/DhivyadharshiniSS/JK_FLIPFLOP/assets/166376977/93ef45a5-84ad-4f8f-9914-3a9a4d2dfbf3)
 # Result
 Thus the verilog program for JK flipflop has been simulated and verified successfully.
 
